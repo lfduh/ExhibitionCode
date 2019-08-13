@@ -7,4 +7,4 @@ Unity端部分UI相關原始碼，實作內容為一可瀏覽複數物件之彈�
 Solidity: 
 區塊鏈智能合約原始碼，由Solidity語言寫成
 
-兩者皆出自於專案"DrawShowdawn"
+兩者皆出自於專案"DrawShowdown"

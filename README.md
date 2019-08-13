@@ -1,2 +1,2 @@
-# ExhibitionCode-
-程式碼展示用庫
+# ExhibitionCode
+展示用程式碼儲存庫
